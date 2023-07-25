@@ -1,1 +1,1 @@
-# Statistica
+# Statistic
